@@ -1,0 +1,5 @@
+text,label,cleaned_text,lemmatized_text,encoded_label
+Cats are running faster than dogs,animal,cats are running faster than dogs,cat are runn faster than dog,0
+The dog was barking loudly,animal,the dog was barking loudly,the dog was bark loudly,0
+Students are studying machine learning,education,students are studying machine learning,student are study machine learn,1
+She enjoys reading books and writing code,education,she enjoys reading books and writing code,she enjoy read book and writ code,1
